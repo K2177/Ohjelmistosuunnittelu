@@ -19,6 +19,7 @@
 ##Asiakastarina
 ##Sidosryhmät ja profiilikuvaukset
 ##Sidosryhmäkuva
+![Sidosryhmäkuva](https://github.com/K2177/Ohjelmistosuunnittelu/blob/master/Images/Untitled%20Diagram.png)
 ##Asiakaspolku
 ##Yleinen käyttötapaus
 ##Yleiset toiminnalliset vaatimukset
