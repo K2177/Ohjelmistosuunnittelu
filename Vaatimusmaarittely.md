@@ -1,7 +1,7 @@
 #Vaatimusmäärittely
 ##Sisällysluettelo
 
-* [Asiakastarina]()
+* [Asiakastarina](##Asiakastarina)
 * [Sidosryhmät ja profiilikuvaukset]()
 * [Sidosryhmäkuva]()
 * [Asiakaspolku]()
