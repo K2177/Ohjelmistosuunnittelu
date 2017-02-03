@@ -17,6 +17,7 @@
 
 ##Johdatus
 ##Asiakastarina
+Opiskelija on työstänyt opinnäytetyönsä ja se olisi tarkoitus arvostella niin opiskelijan kuin muidenkin osapuolien taholta.
 ##Sidosryhmät ja profiilikuvaukset
 ##Sidosryhmäkuva
 ![Sidosryhmäkuva](https://github.com/K2177/Ohjelmistosuunnittelu/blob/master/Images/Untitled%20Diagram.png)
