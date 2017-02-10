@@ -39,6 +39,7 @@ Opiskelija on työstänyt opinnäytetyönsä ja se olisi tarkoitus arvostella ni
 
 ###Tietoturva
 1. Käyttäjätietojen salaus.
+2. Palvelunestohyökkäyksen vastainen suojaus.
 
 ##Palvelu MockUp
 
